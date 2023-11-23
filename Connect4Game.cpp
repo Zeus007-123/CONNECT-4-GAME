@@ -230,7 +230,7 @@ public:
       cout << "                ---------------------------------             \n";
       cout << endl; 
       cout << endl;
-      cout << " 1. Two-playe Red(R) & Blue(B) game." << endl;
+      cout << " 1. Two-player Red(R) & Blue(B) game." << endl;
       cout << " 2. Board Size is 6 rows & 7 columns." << endl;
       cout << " 3. A player wins, if he/she is able to connect 4 letters horizontally, vertically or diagonally. " << endl;
       cout << " 4. Game Draw when matrix is fully filled." << endl;
