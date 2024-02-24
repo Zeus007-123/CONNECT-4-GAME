@@ -1,5 +1,7 @@
 # CONNECT-4-GAME
 
+A Clone of Classic Connect-4 Game C++ Console Version
+
 [Rules]
 
 1. Two-player (red & blue) game.
